@@ -25,3 +25,5 @@ Install openpyxl
 Run the file
 
 `python main.py`
+
+You can go ahead and add additional components if you want. I am thinking of working out a Web interface as well.
